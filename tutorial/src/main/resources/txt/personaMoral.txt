@@ -1,0 +1,10 @@
+RFC	String
+RazonSocial	String
+TipoPersona	Integer
+PaisOrigen	Integer
+CartaConstitutiva	String
+FechaConstitucion	Date
+FechaAfiliacion	Date
+Localidad	Integer
+ActividadEconomica	Integer
+Estatus	Boolean

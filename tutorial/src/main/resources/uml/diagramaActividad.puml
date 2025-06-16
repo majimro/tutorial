@@ -1,0 +1,39 @@
+@startuml
+title AcreditamientoServiceImplActivityDiagram
+
+start
+
+:InitializeSpringService;
+
+:DeclareConstants;
+note right
+    JUSTIFICACION_DESTINO
+    RESPONSABLE
+    ETIQUETA_SALDO
+    COMENTARIOS_SEGUIMIENTOS
+    JUSTIFICACION_MOV
+end note
+
+:InjectDependencies;
+note right
+    declaracionRules
+    acreditamientoTemporalRepository
+    icepService
+    acreditamientoRepository
+    iDycpServicioDAO
+end note
+
+:ImplementServiceMethods;
+if (BusinessRuleValidation?) then (Valid)
+    :ProcessAcreditamiento;
+    :CallRepositoryMethods;
+    :UpdateEntities;
+else (Invalid)
+    :HandleValidationError;
+    :LogError;
+endif
+
+:ReturnResult;
+stop
+
+@enduml

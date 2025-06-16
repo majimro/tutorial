@@ -1,0 +1,95 @@
+{
+    "countries": [
+      {
+        "id": 1,
+        "code": "MX",
+        "name": "México",
+        "capital": "Ciudad de México",
+        "continent": "América",
+        "population": 126190788,
+        "flag_url": "https://flagcdn.com/mx.svg"
+      },
+      {
+        "id": 2,
+        "code": "US",
+        "name": "Estados Unidos",
+        "capital": "Washington D.C.",
+        "continent": "América",
+        "population": 331893745,
+        "flag_url": "https://flagcdn.com/us.svg"
+      },
+      {
+        "id": 3,
+        "code": "JP",
+        "name": "Japón",
+        "capital": "Tokio",
+        "continent": "Asia",
+        "population": 126860000,
+        "flag_url": "https://flagcdn.com/jp.svg"
+      },
+      {
+        "id": 4,
+        "code": "FR",
+        "name": "Francia",
+        "capital": "París",
+        "continent": "Europa",
+        "population": 67081000,
+        "flag_url": "https://flagcdn.com/fr.svg"
+      },
+      {
+        "id": 5,
+        "code": "AU",
+        "name": "Australia",
+        "capital": "Canberra",
+        "continent": "Oceanía",
+        "population": 25687041,
+        "flag_url": "https://flagcdn.com/au.svg"
+      },
+      {
+        "id": 6,
+        "code": "BR",
+        "name": "Brasil",
+        "capital": "Brasilia",
+        "continent": "América",
+        "population": 213993437,
+        "flag_url": "https://flagcdn.com/br.svg"
+      },
+      {
+        "id": 7,
+        "code": "ZA",
+        "name": "Sudáfrica",
+        "capital": "Pretoria",
+        "continent": "África",
+        "population": 59308690,
+        "flag_url": "https://flagcdn.com/za.svg"
+      },
+      {
+        "id": 8,
+        "code": "CN",
+        "name": "China",
+        "capital": "Pekín",
+        "continent": "Asia",
+        "population": 1411778724,
+        "flag_url": "https://flagcdn.com/cn.svg"
+      },
+      {
+        "id": 9,
+        "code": "DE",
+        "name": "Alemania",
+        "capital": "Berlín",
+        "continent": "Europa",
+        "population": 83155031,
+        "flag_url": "https://flagcdn.com/de.svg"
+      },
+      {
+        "id": 10,
+        "code": "IN",
+        "name": "India",
+        "capital": "Nueva Delhi",
+        "continent": "Asia",
+        "population": 1380004385,
+        "flag_url": "https://flagcdn.com/in.svg"
+      }
+    ]
+  }
+  

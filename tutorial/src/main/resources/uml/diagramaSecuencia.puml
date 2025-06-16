@@ -1,0 +1,20 @@
+@startuml diagramaSecuencia
+
+autonumber
+
+participant "Usuario" as usuario
+participant "Controlador" as controlador
+participant "Servicio" as servicio
+participant "Repositorio" as repositorio
+participant "Base de Datos" as baseDeDatos
+
+usuario -> controlador: solicitud
+controlador -> servicio: solicitud
+servicio -> repositorio: solicitud
+repositorio -> baseDeDatos: solicitud
+baseDeDatos --> repositorio: respuesta
+repositorio --> servicio: respuesta
+servicio --> controlador: respuesta
+controlador --> usuario: respuesta
+
+@enduml

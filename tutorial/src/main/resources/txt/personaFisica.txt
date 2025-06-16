@@ -1,0 +1,14 @@
+RFC	String
+CURP	String
+Nombre	String
+ApellidoPaterno	String
+ApellidoMaterno	String
+TipoPersona	Integer
+Nacionalidad	Integer
+Genero	Integer
+Domicilio	String
+FechaNacimiento	Date
+FechaAfiliacion	Date
+Localidad	Integer
+Regimen	Integer
+Estatus	Boolean
