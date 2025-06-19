@@ -1,0 +1,338 @@
+{
+    "3620002": {
+        "IVAINFT03": {
+            "Clave": "INF_PTE_TIP_SER",
+            "Valor": "1"
+        },
+        "IVAINFT02": {
+            "Clave": "INF_PTE_TIP_SER",
+            "Valor": "0"
+        },
+        "IVAINFT01": {
+            "Clave": "INF_PTE_TIP_SER",
+            "Valor": "0"
+        }
+    },
+    "150002": {
+        "24005": {
+            "Clave": "SAT_LEY_OBL_AP_PAG_POR_INT",
+            "Valor": ""
+        },
+        "24002": {
+            "Clave": "SAT_FEC_DE_VEN_DE_LA_LIN_DE_CAP",
+            "Valor": "2023-12-31T00:00:00"
+        },
+        "24008": {
+            "Clave": "SAT_ALS_EN_DON_SE_PRE_LA",
+            "Valor": ""
+        },
+        "24003": {
+            "Clave": "SAT_SEL_DIG",
+            "Valor": "Rq9u9U6060ZpuAcaebelUmiEgqMDWgX9CJYfOqDizG5ZHwtk3pek2nZEXCbQkMouIVl28OPDcsKjG80bGDGIqd1ShhM2n6Lj2AfP5nAT/WqpMyTmEvilpbGAAX3HfzOyaBDaRpFS6WhzdNxMfuUmQcrvemZEGYIcO2uDFdfK2KntEJ+H0cd9E87GAtOBHJLR7cckXEzYCyn7m4gunaJEovsPUFFjDITkzpvNZU69em0glhmazHYw/XVlA8M3U9XR6OB19TTWWro4g8L9PiGLSeWal/slqgqf07G3AouLXoBfTI84OK5YpSxWcUmMa7Ue/gVp85LZszj99txesUV16A=="
+        },
+        "24001": {
+            "Clave": "SAT_FEC_DE_PRE_DE_LA_DEC",
+            "Valor": "2023-07-18T09:43:17"
+        },
+        "24006": {
+            "Clave": "SAT_NUM_DE_OPE",
+            "Valor": "2411053385"
+        },
+        "24004": {
+            "Clave": "SAT_LIN_DE_CAP",
+            "Valor": ""
+        }
+    },
+    "150003": {
+        "AUX11": {
+            "Clave": "AUX_DAT_GEN",
+            "Valor": ""
+        },
+        "AUX18": {
+            "Clave": "AUX_DAT_GEN",
+            "Valor": "SAMP690606HBCNRB00"
+        },
+        "AUX14": {
+            "Clave": "AUX_DAT_GEN",
+            "Valor": "SANTACRUZ"
+        },
+        "AUX1": {
+            "Clave": "AUX_DAT_GEN",
+            "Valor": "NTI190904CV0Z95CCCCCCCCCC"
+        },
+        "AUX15": {
+            "Clave": "AUX_DAT_GEN",
+            "Valor": "MARTINEZ"
+        },
+        "AUX13": {
+            "Clave": "AUX_DAT_GEN",
+            "Valor": "SAMP690606FIA"
+        },
+        "AUX2": {
+            "Clave": "AUX_DAT_GEN",
+            "Valor": "ESTRATEGIA EN PROCESOS LOGISTICOS SA DE CV"
+        },
+        "AUX16": {
+            "Clave": "AUX_DAT_GEN",
+            "Valor": "PABLO GUILLERMO"
+        }
+    },
+    "3620008": [
+        {
+            "IR604": {
+                "Clave": "INF_PTE_EBSR",
+                "Valor": "HERNANDEZ"
+            },
+            "IR624": {
+                "Clave": "INF_PTE_EBSR",
+                "Valor": "Baja California"
+            },
+            "IR622": {
+                "Clave": "INF_PTE_EBSR",
+                "Valor": ""
+            },
+            "IR625": {
+                "Clave": "INF_PTE_EBSR",
+                "Valor": "Prestaci\u00f3n de servicios"
+            },
+            "AUXCON6": {
+                "Clave": "INF_PTE_EBSR",
+                "Valor": "1"
+            },
+            "IR605": {
+                "Clave": "INF_PTE_EBSR",
+                "Valor": "ORTIZ"
+            },
+            "IR609": {
+                "Clave": "INF_PTE_EBSR",
+                "Valor": ""
+            },
+            "IR613": {
+                "Clave": "INF_PTE_EBSR",
+                "Valor": ""
+            },
+            "IR616": {
+                "Clave": "INF_PTE_EBSR",
+                "Valor": ""
+            },
+            "IR618": {
+                "Clave": "INF_PTE_EBSR",
+                "Valor": "1"
+            },
+            "IR603": {
+                "Clave": "INF_PTE_EBSR",
+                "Valor": "JOSEFINA"
+            },
+            "IR608": {
+                "Clave": "INF_PTE_EBSR",
+                "Valor": "02"
+            },
+            "IR602": {
+                "Clave": "INF_PTE_EBSR",
+                "Valor": "JOSEFINA HERNANDEZ ORTIZ"
+            },
+            "IR612": {
+                "Clave": "INF_PTE_EBSR",
+                "Valor": ""
+            },
+            "IR607": {
+                "Clave": "INF_PTE_EBSR",
+                "Valor": "Baja California"
+            },
+            "IR615": {
+                "Clave": "INF_PTE_EBSR",
+                "Valor": "TA4"
+            },
+            "IR611": {
+                "Clave": "INF_PTE_EBSR",
+                "Valor": ""
+            },
+            "IR614": {
+                "Clave": "INF_PTE_EBSR",
+                "Valor": ""
+            },
+            "IR626": {
+                "Clave": "INF_PTE_EBSR",
+                "Valor": ""
+            },
+            "IR601": {
+                "Clave": "INF_PTE_EBSR",
+                "Valor": "HEOJ630311US1"
+            },
+            "IR623": {
+                "Clave": "INF_PTE_EBSR",
+                "Valor": "2"
+            },
+            "IR617": {
+                "Clave": "INF_PTE_EBSR",
+                "Valor": "0"
+            },
+            "IR606": {
+                "Clave": "INF_PTE_EBSR",
+                "Valor": "HEOJ630311MVZRRS01"
+            },
+            "IR610": {
+                "Clave": "INF_PTE_EBSR",
+                "Valor": ""
+            },
+            "AUXCP6": {
+                "Clave": "INF_PTE_EBSR",
+                "Valor": "true"
+            }
+        }
+    ],
+    "150001": {
+        "20": {
+            "Clave": "SAT_ID_DE_LA_DEC",
+            "Valor": "6F41BD99-9A90-48C8-8056-A02093DEFFB9"
+        },
+        "25": {
+            "Clave": "SAT_DES_DE_LA_PER",
+            "Valor": "1-Mensual"
+        },
+        "30": {
+            "Clave": "SAT_EJE",
+            "Valor": "2023"
+        },
+        "35": {
+            "Clave": "SAT_ID_DE_LA_DEC_PAD",
+            "Valor": "00000000-0000-0000-0000-000000000000"
+        },
+        "21": {
+            "Clave": "SAT_VER_DE_LA_REF",
+            "Valor": "1"
+        },
+        "40": {
+            "Clave": "SAT_CLA_USU_CON",
+            "Valor": ""
+        },
+        "45": {
+            "Clave": "SAT_MED_DE_AUT",
+            "Valor": "sat/ciec/contribuyentes/uri"
+        },
+        "26": {
+            "Clave": "SAT_DES_DEL_PER",
+            "Valor": "Junio"
+        },
+        "24": {
+            "Clave": "SAT_DES_DEL_TIP_DE_DEC",
+            "Valor": "Normal"
+        },
+        "29": {
+            "Clave": "SAT_FEC_DE_CAU",
+            "Valor": "2023-12-31T00:00:00"
+        },
+        "34": {
+            "Clave": "SAT_MED_DE_LLE_DE_LA_DEC",
+            "Valor": "E"
+        },
+        "39": {
+            "Clave": "SAT_CLA_USU_INI",
+            "Valor": "NTI190904CV0Z95"
+        },
+        "44": {
+            "Clave": "SAT_NUM_DE_SER_CER",
+            "Valor": "00001000000501652658"
+        },
+        "49": {
+            "Clave": "SAT_FIR",
+            "Valor": "jk+dra5Q5IHNkQOxacrngU//KVBc0ShK0ZTD/q3/hEYrRDhqUKEdzKzgaeXqm5UyOdCOnUNw+J0LLrF4x8/mfBQHuwv2s16xzyP4ci/ZNfLJc39T5kuIZNIVrmpgVTKiJOdXfj1/+yC5V4EHvU5QYuLjqEdnU7LP1EAW1zUgNFTQw4NeyeCkGaluiwPjqOpU4b5GQsBQhZS5Fy/4wXOcO2Cz80ZgJ2JK903VC4dGOOGX/2IstHaNt0TNdRDnSsu7LVLp5kWimhYmyIGAoqnj0OPHuTlxFMaKnKmuLiDR0Rmmr4FOZdexWwJ6PbxV1Q6fqsOud5rLfOJZWxNjuQAkkg=="
+        },
+        "50": {
+            "Clave": "SAT_CVE_MED_PRE",
+            "Valor": "WEB"
+        },
+        "67": {
+            "Clave": "SAT_ES_MOV",
+            "Valor": "0"
+        },
+        "72": {
+            "Clave": "SAT_EST_TIE_FOL_AUT_FIR_POR",
+            "Valor": "||NTI190904CV0Z95|00001000000501652658|1689694995039|NTI190904CV0Z95|ESTRATEGIA EN PROCESOS LOGISTICOS|35|18-JUL.-23||0|0|0||"
+        },
+        "23": {
+            "Clave": "SAT_CLA_DEL_PER",
+            "Valor": "006"
+        },
+        "28": {
+            "Clave": "SAT_FEC_DE_VEN_DE_LA_DEC",
+            "Valor": "2023-12-31T00:00:00"
+        },
+        "33": {
+            "Clave": "SAT_DES_DEL_TIP_DE_COM",
+            "Valor": ""
+        },
+        "38": {
+            "Clave": "SAT_FEC_CON_DEC",
+            "Valor": "2023-07-18T00:00:00"
+        },
+        "43": {
+            "Clave": "SAT_FIR_DE_LA_DEC",
+            "Valor": "true"
+        },
+        "48": {
+            "Clave": "SAT_CER",
+            "Valor": ""
+        },
+        "66": {
+            "Clave": "SAT_NOM_APL",
+            "Valor": "ANUAL INTERNET"
+        },
+        "22": {
+            "Clave": "SAT_CLA_TIP_DE_COM",
+            "Valor": "0"
+        },
+        "27": {
+            "Clave": "SAT_CLA_DE_LA_CLA_DE_DEC",
+            "Valor": "002"
+        },
+        "32": {
+            "Clave": "SAT_CLA_DE_PER",
+            "Valor": "M"
+        },
+        "37": {
+            "Clave": "SAT_MED_DE_PRE_DE_LA_DEC",
+            "Valor": "Internet"
+        },
+        "42": {
+            "Clave": "SAT_DES_DEL_REG_PRE",
+            "Valor": "Declaraci\u00f3n informativa por el uso de plataformas tecnol\u00f3gicas"
+        },
+        "47": {
+            "Clave": "SAT_FEC_SIS",
+            "Valor": ""
+        },
+        "65": {
+            "Clave": "SAT_ID_APL",
+            "Valor": "1"
+        },
+        "185": {
+            "Clave": "SAT_DAT_GEN",
+            "Valor": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0"
+        },
+        "31": {
+            "Clave": "SAT_CLA_DEL_TIP_DE_DEC",
+            "Valor": "001"
+        },
+        "36": {
+            "Clave": "SAT_ID_DE_LA_DEC_RAI",
+            "Valor": "00000000-0000-0000-0000-000000000000"
+        },
+        "41": {
+            "Clave": "SAT_CLA_DEL_REG_PRE",
+            "Valor": "35"
+        },
+        "46": {
+            "Clave": "SAT_ADD",
+            "Valor": "Addenda"
+        },
+        "54": {
+            "Clave": "SAT_ID_ANU",
+            "Valor": ""
+        },
+        "73": {
+            "Clave": "SAT_FIR_POR",
+            "Valor": "0"
+        }
+    }
+}
